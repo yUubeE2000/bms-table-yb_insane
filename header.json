@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "yb発狂難易度表",
+"symbol" : "★",
+"data_url" : "https://script.google.com/macros/s/AKfycbw7AY4k_avsx8DM_H7sHnI8OJYLv5RdBNQAaf5FSPQYOEhF7JuMBaVUtAb1uiacQ_J7qw/exec"
 }
